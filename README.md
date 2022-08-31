@@ -34,9 +34,8 @@ Follow the process described in the course to `eb init` a new application and `e
 ###ENDPOINT
 MY URL Development Server and Elastic Beanstalk Deployment
 
-http://hildamaina-project2-imagefilter-dev.us-east-1.elasticbeanstalk.com//filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/B517/production/_126395364_gettyimages-1242616851.jpg.webp
+http://hildamaina-project2-imagefilter-dev2.us-east-1.elasticbeanstalk.com./filteredimage?image_url=https://ichef.bbci.co.uk/news/490/cpsprodpb/9CED/production/_126537104_mikhail_gorbachev_getty.jpg
 
 
-
-
+https://hildamaina-project2-imagefilter-dev2.us-east-1.elasticbeanstalk.com./filteredimage?image_url={Imageurl%20variable}
 
